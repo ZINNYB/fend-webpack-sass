@@ -10,3 +10,7 @@ console.log(checkForName);
 
 alert("I EXIST");
 console.log("CHANGE!!");
+
+(function (iife) {
+  alert("hehe");
+})();

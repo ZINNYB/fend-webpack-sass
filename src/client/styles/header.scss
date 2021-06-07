@@ -1,5 +1,6 @@
+$sec-pad: 10px 40px;
 header {
   display: flex;
   justify-content: space-between;
-  padding: 10px 40px;
+  padding: $sec-pad;
 }
